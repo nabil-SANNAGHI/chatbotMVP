@@ -41,7 +41,12 @@ This project showcases my skills in full-stack development, focusing on data val
 
 ## App Demo
 
-
+- **installation:**
+  
+https://github.com/user-attachments/assets/01fbe9c3-3556-4370-93a9-9e47f8338736
+- **Demo:**
+  
+https://github.com/user-attachments/assets/a5ca7b4c-b3e1-4c83-b8e4-382453e179f4
 
 ## Table of Contents
 
@@ -71,11 +76,12 @@ Move into the project directory
 
 Run the installation script:
 
+chmod +x install.sh
+
+and
+
 ./install.sh
 
-or
-
-chmod +x install.sh
 
 ### Manual Installation
 
